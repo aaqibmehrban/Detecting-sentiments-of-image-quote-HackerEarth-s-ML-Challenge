@@ -1,4 +1,4 @@
-# Detecting-sentiments-of-image-quote-`love_is-love` (HackerEarth's ML Challenge)
+# Detecting-sentiments-of-image-quote (HackerEarth's ML Challenge `Love_is-Love`)
 A HackerEarth’s ML Challenge based on Detecting sentiments of image quote using unsupervised Machine Learning techniques and knowledge of OCR and NLP to build a model that analyzes sentiments of a quote and classifies them into `positive`, `negative`, or `random`.
 
 ### My Approach
